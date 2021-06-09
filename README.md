@@ -2,6 +2,8 @@
 
 ## Description :
    we will be Building a web scraper bot that extracts the list of cashless hospitals from the website of insurance company and also we will Push the fetched data to a database(mysql).
+### website link
+  - [click here](https://www.hdfcergo.com/locators/cashless-hospitals-network)
    ***
    press enter to fetch all data or enter a city name  for data of a particular city 
  ## RESOURCES FOR SETUP :
